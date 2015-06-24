@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/micahhamilton/cloud/bash'
+let g:netrw_dirhist_2='/Users/micahhamilton/.vim/bundle/colorschemes/colors'
+let g:netrw_dirhist_3='/Users/micahhamilton/.vim/bundle'
